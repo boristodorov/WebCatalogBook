@@ -4,6 +4,6 @@ include 'functions.php';
 <!DOCTYPE html>
 <html>
     <head>
-        <title><?=$title;?></title>
+        <title><?= $title; ?></title>
     </head>
     <body>
